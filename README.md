@@ -12,8 +12,6 @@ _Данный проект представляет собой веб прило
 
 [React-Quiz](https://react-quiz-2d219.web.app/)
 
-*статус проекта: завершен*
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
